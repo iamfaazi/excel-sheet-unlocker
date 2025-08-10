@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 **Bug Reports**: [Open an issue](https://github.com/iamfaazi/excel-sheet-unlocker/issues)
 - 💡 **Feature Requests**: [Discussions](https://github.com/iamfaazi/excel-sheet-unlocker/discussions)
-- 📧 **Direct Contact**: faaziahamed@gmail.com.com
+- 📧 **Direct Contact**: faaziahamed@gmail.com
 
 ## ⭐ Star History
 
